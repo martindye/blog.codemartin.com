@@ -34,7 +34,7 @@ it with Alexa, using the <a href="https://www.amazon.co.uk/Echo-Input-White-audi
 For the price, this is an amazing bit of kit. If it was just a bluetooth speaker it would be a great purchase, but with
 all the additional technology this seems like a bargain.
  
-<a href="https://www.amazon.co.uk/s?k=echo&crid=3U734JFW5NQCJ&sprefix=echo%2Caps%2C117&linkCode=ll2&tag={{site.affid}}&linkId=791178ea11fbb6c7f3016b789cdfb5fa&language=en_GB&ref_=as_li_ss_tl"></a>
+<a href="https://www.amazon.co.uk/s?k=echo&crid=3U734JFW5NQCJ&sprefix=echo%2Caps%2C117&linkCode=ll2&tag={{site.affid}}&linkId=791178ea11fbb6c7f3016b789cdfb5fa&language=en_GB&ref_=as_li_ss_tl">Link to Amazon</a>
 
 {% comment %}
 
