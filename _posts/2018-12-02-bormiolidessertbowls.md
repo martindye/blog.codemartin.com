@@ -28,8 +28,7 @@ For the money you can't find better in a high street store as it will be at leas
 Note, since this review, the bowls are now sold as a set of 6, so they're still great value for money!
 </em>
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=GB&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id={{site.affid}}&language=en_GB&marketplace=amazon&region=GB&placement=B078HXZH6S&asins=B078HXZH6S&linkId=178804c6060df6ca9bf936e2b607df76&show_border=true&link_opens_in_new_window=true">
-</iframe>
+https://www.amazon.co.uk/Bormioli-Rocco-Universal-Dessert-Bowl/dp/B002IT6WO4?crid=2TI3NZKJ8TF01&dib=eyJ2IjoiMSJ9.9sVnrcE2Nepa1lCTzMDDVf2XNdYGUcchGA2d5hU54K3jpz6z-ynT04Qp_Wtncjz44enJEpO7jJaK5w2zIqpxNm9-N9EAyP-TmjnEwqsGc9mouyT8NJSXI5Y6ui_ounnFV2wxmma4PzGhTTTG3fLCdtSCSnZWorqe2fxb655osG36W1x0h6M6rGTG49v3aZ_Naksa2IC-WvdbS2SL3dZWg91drTpGr3NGJYEGtvxUfpvBr706r8J90hf3A-k1eMPWITRsSoTIkn0dtG4KyXjaz33O0ZHWQHan3zWlieUHtj0.YdRY0TPDIwrqFlnVE-lzxiReV5H3I_zqitF9bTmLs80&dib_tag=se&keywords=Bormioli+Rocco+Dessert+Bowls&qid=1721498735&sprefix=bormioli+rocco+dessert+bowls%2Caps%2C94&sr=8-37&linkCode=ll1&tag={{site.affid}}&linkId=c2d4b41329e6f1f824f3c6d3cad39982&language=en_GB&ref_=as_li_ss_tl
 
 {% comment %}
 

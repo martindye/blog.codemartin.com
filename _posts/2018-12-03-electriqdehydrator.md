@@ -50,8 +50,7 @@ This is great value for money. Other models which have square shelves and a diff
 they are way more expensive. So if you don't want to spend too much, and wish to join the army of secret food dehydrators,
 then this is an excellent choice for you!
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=GB&source=ac&ref=tf_til&ad_type=product_link&tracking_id={{site.affid}}&marketplace=amazon&region=GB&placement=B00M31GD8C&asins=B00M31GD8C&linkId=c60d0b0e0065f547084c692495c745cb&show_border=true&link_opens_in_new_window=false&price_color=333333&title_color=0066c0&bg_color=f2f2f2">
-</iframe>
+https://www.amazon.co.uk/electriQ-Dehydrator-Large-Access-Shelves/dp/B01N9PV6HO?crid=1Y3FUCON8VFP2&dib=eyJ2IjoiMSJ9.FvAL1AdXNKx4qImGVwcFa7GbUoUWutePcQBVgFihmkQmd5mDRgNwItOFiMpOOm64IRWhUTLDBaGg5B-RpkMOYcfV-RfSjHcB_7RlwLz43H4RJlX9xON2u5xX0LwKpPNTxWnfwCSx0WKuKzjJ8LK4H26BgDa3Mb8ynL54k8IJzDxAVFncAnbffiXJV5VFKtaY0rrYmfkHk2hF0m4Q_BbP9l64Mhw5cp4wH007vgR7jd8.BqO6QxZWaASbCh18iPT1rtO3fTwzEdbynYaugrRi1Ds&dib_tag=se&keywords=electriQ+Food+Dehydrator+-+with+6+Collapsible+Shelves+%26+48hr+timer&qid=1721499203&sprefix=electriq+food+dehydrator+-+with+6+collapsible+shelves+%26+48hr+timer%2Caps%2C70&sr=8-3&linkCode=ll1&tag={{site.affid}}&linkId=cac2b7da0241ff15f0245b8d6e993736&language=en_GB&ref_=as_li_ss_tl
 
 {% comment %}
 

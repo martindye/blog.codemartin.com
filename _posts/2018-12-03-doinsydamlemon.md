@@ -34,7 +34,7 @@ and it's totally worth it.
 
 The link below is for the 2 x 80g bars and this offers the best value.
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=GB&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id={{site.affid}}&language=en_GB&marketplace=amazon&region=GB&placement=B017IW0AQQ&asins=B017IW0AQQ&linkId=17f4cb012212c380517a64c3371413f2&show_border=true&link_opens_in_new_window=true"></iframe>
+https://www.amazon.co.uk/Doisy-Dam-Dark-Chocolate-Bundle/dp/B0737BRRZH?th=1&linkCode=ll1&tag={{site.affid}}&linkId=e4af3002a8bef2f9a1d9aed726932b76&language=en_GB&ref_=as_li_ss_tl
 
 {% comment %}
 

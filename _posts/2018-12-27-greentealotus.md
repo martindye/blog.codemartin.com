@@ -27,8 +27,7 @@ Green Tea by Arden is an affordable everyday perfume with a clean, citrucy smell
 as you can reapply, the bottle is big enough. Much better choice than other perfumes or eau de toilette that you can't
 wear as they are sickly sweet or they have a heavy weird scent.
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=GB&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id={{site.affid}}&language=en_GB&marketplace=amazon&region=GB&placement=B0028VM7CI&asins=B0028VM7CI&linkId=3a6df154a16c58b5f27dbc190ce1b6fe&show_border=true&link_opens_in_new_window=false"></iframe>
-
+https://www.amazon.co.uk/Elizabeth-Arden-Green-Lotus-Toilette/dp/B006AAL36Y?crid=2C2726UHJ82I8&dib=eyJ2IjoiMSJ9.3qiwctLpHs0FsO480HGa9CLalzqb69_BRJU14ThXHq3-yqCjyscSSWLoalu1qsUmiXDp_VJC1tpZAxcPF1orkikpYqIuveh22U--p1N_xGG54avA5FPKF64-8RePJmDZbzD9zBnd_HNwFb6jkw1rZRMwokuWrhvG44mn6XQTCXR5lnk7INxQ6gmxe6wwzEaIi34_UAatPLzg-plB5Ggaq1hmth1jNwccq8hkvrAZ5nbjAb3jr9UUrL-SgVtFonDx1_FnwZFg5eZAjQlpw9b-4IdO78RU4yneUjzyT37LP1c.CKHiQXJB5DYwvKk-XSwOFZmyCzCYSIPPThen7RC6DLQ&dib_tag=se&keywords=Green+Tea+Lotus+by+Elizabeth+Arden+-+EDT+100ml&qid=1721499445&sprefix=green+tea+lotus+by+elizabeth+arden+-+edt+100ml%2Caps%2C86&sr=8-1&linkCode=ll1&tag={{site.affid}}&linkId=0cadb9c484154c8e7fb1195a33e148de&language=en_GB&ref_=as_li_ss_tl
 {% comment %}
 
 Link only

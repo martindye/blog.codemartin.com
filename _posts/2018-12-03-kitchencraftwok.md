@@ -24,8 +24,7 @@ It's thicker (2mm) than the last wok I had, so heat dissipation is a bit better.
 guage steel wok, or with industrial diamonds reinforcing the non-stick coating, but this does the job well and it hasn't
 let me down so far (after 10 uses so far).
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=GB&source=ac&ref=tf_til&ad_type=product_link&tracking_id={{site.affid}}&marketplace=amazon&region=GB&placement=B004VQXNJY&asins=B004VQXNJY&linkId=b134a69523026555945309291d627388&show_border=true&link_opens_in_new_window=false&price_color=333333&title_color=0066c0&bg_color=f2f2f2">
-</iframe>
+https://www.amazon.co.uk/KitchenCraft-World-Flavours-Induction-Carbon/dp/B000IKS7UC?crid=1R9RL7R1LYBER&dib=eyJ2IjoiMSJ9.37l8Tq2N6qJw74ZnfXesO51dwS7DRoyU1aA3-c3YDvotehK03A76GMmaaJtwJSxPCm33m_W4MxSVf6mAh8s2W8OhcrTDtuS6QnUQBHy6mCPepz5s5Acs_24uZ-MzcxHJ6rATrUhvvwuaWO-SHlojMZMz4zTOp5hI0T7DXb_18DHgCiefCil9qx0TPlnjaupi9HpBuQZt1LyspMdWCQcC8-XZHszTOS7IXE0yHoq8LwId1YmMlXauIdRlZk5b840xV3Q08FgV98fRCDOFsWXv1ksRnMpNEBsLPNkvA_OhqKo.19nB9HD9yvV8aKLpddENDOtlYz5RoFyY50ONwvFslIk&dib_tag=se&keywords=KitchenCraft+Master+Class+Professional+Large+Non+Stick+Carbon+Steel+Wok%2C+35.5+cm&qid=1721499276&sprefix=kitchencraft+master+class+professional+large+non+stick+carbon+steel+wok+35.5+cm%2Caps%2C77&sr=8-1&linkCode=ll1&tag={{site.affid}}&linkId=31887d600450c328d3ecf94f301368fa&language=en_GB&ref_=as_li_ss_tl
 	
 {% comment %}
 {% endcomment %}

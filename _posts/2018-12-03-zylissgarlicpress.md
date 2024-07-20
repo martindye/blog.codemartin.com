@@ -32,8 +32,7 @@ I'm so impressed with this that I think inventor's face should be featured on th
 Seriously though, it's really the only garlic press you need. I also think it produces a better quality crushed garlic
 compared to smashing with the side of the knife and / or finely chopping it.
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=GB&source=ac&ref=tf_til&ad_type=product_link&tracking_id={{site.affid}}&marketplace=amazon&region=GB&placement=B006MST90G&asins=B006MST90G&linkId=2302db6cd6a6b895fec5b1f61d42af01&show_border=true&link_opens_in_new_window=false&price_color=333333&title_color=0066c0&bg_color=f2f2f2">
-</iframe>
+https://www.amazon.co.uk/Zyliss-Garlic-Press-Stainless-steel/dp/B006MST90G?crid=6WQT3VQNH34E&dib=eyJ2IjoiMSJ9.s-eLE8aEk4WfNNpF4EidarfzVdoehyWXxitSZgcFdb3XFxRU67bzO043oCFV6NwptQT-T7MibFr9odkCzTf3fTfg3nZ5c2quM1mnbmPiKW6avRR_JcTlfPMpLGG5xRvFvDZQ5gN3t1fAENG7TMCVBBtH75YjCEcpMZNOROz0fdPnXOD6DcvoKnsln1sTsJwQIV_T5eoDGJEzOCDp6gr-J692sYA5C_MpowSp9zZZdRnC8XSOr6MwvofrQsbamWjSwaLjE-jGNo0FMxdKVNbilq5dUtnfZu3rx-i9fyt6S5I.gofWR1fwHqxarINFh1c5tUBGvBweiVFPDu_wWVsG2_g&dib_tag=se&keywords=Zyliss+Susi+3+Garlic+Press%2C+Red%2C+Stainless+steel&qid=1721499410&sprefix=zyliss+susi+3+garlic+press+red+stainless+steel%2Caps%2C91&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1&linkCode=ll1&tag={{site.affid}}&linkId=72171217a84dd866881275fe3e545fd9&language=en_GB&ref_=as_li_ss_tl
 	
 {% comment %}
 {% endcomment %}

@@ -41,8 +41,7 @@ Needs resting in a fridge for a couple of hours, one night its perfect.
 Callebaut callets are good, rich fruity chocolate, its melting easily and can be transformed into chocolate bonbons without tempering, looks shiny when set.<br />
 
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=GB&source=ac&ref=tf_til&ad_type=product_link&tracking_id={{site.affid}}&marketplace=amazon&region=GB&placement=B01DDG8L4Y&asins=B01DDG8L4Y&linkId=9900de7c31b67c9e8122d91980167a6f&show_border=true&link_opens_in_new_window=false&price_color=333333&title_color=0066c0&bg_color=f2f2f2">
-</iframe>
+https://www.amazon.co.uk/Callebaut-Chocolate-Callets-Milk/dp/B01N9OZZBH?crid=2AOZDYIK56IGY&dib=eyJ2IjoiMSJ9.RiIc27BtCPRKVuvH6I3ovioGYmrRTrvkuVPhNza_b5UV3QRQ1kJIONgfoM1INve01jnYcRqNiLuJYM2F9PYD-SZxZcObBTcAOSj8LkiL_RYswkxg3hCbSNpmkueeUOpOozBNrFUjwUsuTOJ29_h50NbPDVPpDQzhzsN7cxe05mEt1hDszlniUmEt2G1Kbfg-VJvovBK6tWrp8iJt9JVU0SwK_myPfSwTU-T7i68TXrbpf4nYdVuCtCnH8NP8mDj78aC1VMQkNCcmQfepvZ-GVf9sMXC5I3voyZuSDrFmtBU.1bjarAL8D5FK_uWSLZnxzJQhhiho6BgTmHKbakn1TlQ&dib_tag=se&keywords=Callebaut+Chocolate+Select+811%2C+Dark%2C+Callets+1+kg&qid=1721498802&sprefix=callebaut+chocolate+select+811+dark+callets+1+kg%2Caps%2C87&sr=8-4&linkCode=ll1&tag={{site.affid}}&linkId=cdbec17fb242f47133a8c749a558516a&language=en_GB&ref_=as_li_ss_tl
 
 {% comment %}
 
