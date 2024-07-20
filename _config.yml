@@ -8,4 +8,4 @@ show_header: false
 url: "https://blog.codemartin.com" # the base hostname & protocol for site
 plugins:
   - jekyll-sitemap
-affid: 0f-2codemartin1 # Amazon Affiliate ID
+affid: codemartin079-21 # Amazon Affiliate ID
